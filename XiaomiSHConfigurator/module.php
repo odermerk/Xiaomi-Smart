@@ -6,7 +6,7 @@ include_once(__DIR__ . "/../XiaomTraits.php");
  * Erweitert IPSModule.
  * 
  */
-class XiaomiSmartHomeConfigurator extends ipsmodule
+class XiaomiSmartHomeOdermerk extends ipsmodule
 {
     use DebugHelper;
 // Überschreibt die interne IPS_Create($id) Funktion
