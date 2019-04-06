@@ -110,6 +110,3 @@ Folgenden Funktionen bzw. Daten werden derzeit unterstützt.
 |                               | Boolean   | Status Long Click Press                 |
 |                               | Boolean   | Status Long Click Release               |    
 
-## 11. Lizenz  
-
-[CC BY-NC-SA 4.0] (https://creativecommons.org/licenses/by-nc-sa/4.0/) 
