@@ -1,10 +1,10 @@
 {
     "id": "{2AFE9956-72BA-45E1-8E0D-E12C71DBEC91}",  
     "author": "odermerk",  
-    "name": "IP Symcon Module - Xiaomi Smart Home",  
+    "name": "Xiaomi Smart Home - Odermerk",  
     "url": "",  
-    "version": "0.1",  
-    "build": 0,  
+    "version": "1.0",  
+    "build": 1,  
     "compatibility": {
         "version": "4.3",
         "date": 1497181917
